@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Nate, I am a software developer who currently is in my last semester of univeristy. 
 
-I love learn new things about reverse engineering & machine learning. 🤩
+Most of my repos have medium articles attached that you can read to learn more about the project!
 
-Check out my website and blog for more information, or contact me below.
+I particularly love learning new things about reverse engineering & machine learning. 🤩
+
+Check out my website and blog linked on my profile for more information! 🫡
