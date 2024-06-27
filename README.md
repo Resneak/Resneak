@@ -18,6 +18,6 @@ I'm Nate, I am a software developer who currently is in my last semester of univ
 
 Most of my repos have medium articles attached that you can read to learn more about the project!
 
-I particularly love learning new things about reverse engineering & machine learning. 🤩
+I particularly love learning new things about machine learning & reverse engineering. 🤩
 
 Check out my website and blog linked on my profile to learn more about me! 👾
