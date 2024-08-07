@@ -20,5 +20,5 @@ Most of my repos have medium articles attached that you can read to learn more a
 
 I particularly love learning new things about machine learning & reverse engineering. 🤩
 
-Check out my website and blog linked on my profile to learn more about me! 👾👾👾
+Check out my website and blog linked on my profile to learn more about me! 👾👾👾 XXX
 
