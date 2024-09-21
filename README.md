@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm Nate, I am a software developer who currently is in my last semester of univeristy. 
 
-Most of my repos have medium articles attached that you can read to learn more about the project!
+I love to write articles about my technology (linked under my profile) and most of my repos have medium articles attached that you can read to learn more about the project!
 
-I particularly love learning new things about machine learning & reverse engineering. 🤩
+I also particularly love learning new things about machine learning & reverse engineering. 🤩
 
-Check out my website and blog linked on my profile to learn more about me! 👾👾👾 YYY
+Check out my website and blog linked on my profile to learn more about me! 👾👾👾
 
 
