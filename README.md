@@ -20,6 +20,6 @@ I love to write articles about programming and most of my repos have medium arti
 
 I also particularly love learning new things about machine learning & reverse engineering. 🤩
 
-Check out my website and blog linked under my profile to learn more about me! 👾👾👾
+Check out my website and blog linked under my profile to learn more about me! 👾👾👾 xx
 
 
