@@ -20,4 +20,4 @@ I love to write articles about intriguing software/AI and most of my repos have 
 
 I also particularly love learning new things about machine learning & reverse engineering. 🤩
 
-Check out my website and blog linked under my profile to learn more about me! 👾👾👾y
+Check out my website and blog linked under my profile to learn more about me! 👾👾👾yE
