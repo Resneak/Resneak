@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nate, I am a software developer who currently is in my last semester of univeristy. 
+I'm Nate. 
 
 I love to write articles about intriguing software/AI and most of my repos have medium articles attached that you can read to learn more about the repo/project!
 
